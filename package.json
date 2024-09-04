@@ -2,6 +2,7 @@
   "name": "eraser_clone",
   "version": "0.1.0",
   "private": true,
+  "packageManager": "pnpm@9.1.2",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -39,8 +40,7 @@
     "react-resizable-panels": "^2.0.12",
     "sonner": "^1.4.3",
     "tailwind-merge": "^2.2.1",
-    "tailwindcss-animate": "^1.0.7",
-    "packageManager": "pnpm@9.1.2"
+    "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
     "@types/node": "^20",
